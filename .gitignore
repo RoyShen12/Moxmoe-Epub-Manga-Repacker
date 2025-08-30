@@ -131,3 +131,6 @@ dmypy.json
 # Editor or IDE
 .vscode
 .idea
+
+# macOS
+.DS_Store
